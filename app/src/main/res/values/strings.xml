@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoodTimeMenu</string>
+    <string name="btnNewShift">+</string>
+    <string name="twShift">Смена №</string>
+    <string name="btnNewOrder">+</string>
+    <string name="twOrder">Заказ №</string>
+    <string name="btnSaveOrder">save</string>
+    <string name="btnCloseOrder">close</string>
+    <string name="contentDescriptionFoodBtn">TODO</string>
+</resources>
